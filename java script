@@ -1,0 +1,18 @@
+document.write("<h1>Atencion Virtual 3</h1>");
+var nombre="maria";
+var apellido="aguirre";
+console.log(apellido);
+alert("Bienvenido al Consultorio Virtual");
+
+var edad= prompt("ingrese edad");
+if (edad >=20){
+    alert ("usted es mayor");
+}
+else{
+    alert("es menor de edad");
+}
+var nombre= prompt("ingresa tu nombre:");
+alert("hola"+nombre);
+
+let numero=10;
+console.log(numero);

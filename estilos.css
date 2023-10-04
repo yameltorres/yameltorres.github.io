@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(234, 249, 174) ;
+    text-align: center; 
+        
+};
+div{
+    background-color: rgb(118, 145, 71);
+    width: 1100px;
+    margin: 0mx;
+    height: 100px; 
+    padding: 10px;
+    margin: 100px;
+    width: 100px;
+    text-align: 100px;   
+}
+header{
+    height: 100px;
+    color: #0c0b0b;
+    
+}
+h1{
+    background-color: rgb(71, 124, 65) ;
+}
+h2{
+    background-color: rgb(85, 87, 4) ;
+}
+h1 FORMULARIO DE REGISTROS{
+    background-color: rgb(48, 3, 4) ;
+}
+table {
+    background-color: rgb(241, 7, 7);
+}
